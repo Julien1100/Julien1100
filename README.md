@@ -1,7 +1,6 @@
-# <div align="center">I'm Julien, a web developer 👨‍💻</div>  
-  
+![Header](./header.png)
 
-### <div align="center">I am a tech enthusiast on a journey of continuous learning and development 🚀</div>  
+### <div align="center">I am a tech enthusiast and web developer on a journey of continuous learning and development 🚀</div>  
   
 
 🌱 I’m currently learning the MERN stack  
