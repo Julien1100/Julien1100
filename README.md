@@ -97,6 +97,5 @@
 
 ## Daily.dev Stats  
 
-<a href="https://app.daily.dev/j8t"><img src="https://api.daily.dev/devcards/2789e3085966438eb3b8b621ab1964bf.png?r=x14" width="400" alt="Julien Milcent's Dev Card"/></a>
-
+<a href="https://app.daily.dev/j8t"><img src="https://api.daily.dev/devcards/v2/5IzeLQpj1PZMxogql73f4.png?type=wide&r=d6j" width="652" alt="Julien Milcent's Dev Card"/></a>
 <br />
